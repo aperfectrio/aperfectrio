@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tanim Ahmed</h1>
 
-<!--
-**aperfectrio/aperfectrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Computer Science Student at Sejong University</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+💡 Questioning my algorithm? Let's analyze the complexity.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+* 🎓 Computer Science & Engineering Student
+* 🏫 Sejong University, South Korea
+* 💻 Competitive Programming Enthusiast
+* 🌱 Currently learning React, Node.js, AI & Data Science
+* 🚀 Building projects and improving problem-solving skills
+
+---
+
+### 🛠️ Languages & Tools
+
+C++ • JavaScript • HTML • CSS • React • Node.js • Git • GitHub
+
+---
+
+### 🎯 Current Focus
+
+* Data Structures & Algorithms
+* Competitive Programming
+* Full-Stack Web Development
+* AI & Big Data
+
+---
+
+> "Questioning my algorithm? Let's analyze the complexity."
