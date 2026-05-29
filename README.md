@@ -6,15 +6,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Competitive+Programmer;Full-Stack+Developer;Always+Learning+New+Things" />
 </p>
 
-<h3 align="center">Computer Science Student | Competitive Programmer | Aspiring Full-Stack Developer</h3>
+<h3 align="center">Computer Science Student | Competitive Programmer | Aspiring AI/ML</h3>
 
 <p align="center">
-💡 Questioning my algorithm? Let's analyze the complexity.
+ You're questioning my algorithm???
 </p>
 
 ---
 
-## 👨‍💻 About Me
 
 * 🎓 Computer Science Student at Sejong University, South Korea
 * 🏆 Passionate about Competitive Programming
@@ -24,14 +23,6 @@
 
 ---
 
-## 🌐 Coding Profiles
-
-* LeetCode: https://leetcode.com/u/aperfectrio/
-* Codeforces: https://codeforces.com/profile/A_Perfect_Trio
-
----
-
-## 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
@@ -55,9 +46,8 @@
 
 * Data Structures & Algorithms
 * Competitive Programming
-* Full-Stack Web Development
+* Building Real-world Projects
 * AI & Big Data
 
 ---
 
-> "Questioning my algorithm? Let's analyze the complexity."
