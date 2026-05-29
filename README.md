@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Competitive+Programmer;Always+Learning+New+Things" />
 </p>
 
-<h3 align="center">Computer Science Student | Competitive Programmer | Aspiring AI/ML</h3>
+<h3 align="center">Computer Science Student | Competitive Programmer | Aspiring AI/ML Engineer</h3>
 
 <p align="center">
  You're questioning my algorithm???
