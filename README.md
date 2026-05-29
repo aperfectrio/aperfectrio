@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://github.com/aperfectrio/aperfectrio/blob/main/stray-programming.gif" width="700">
 </p>
-<h1 align="center">Hi 👋, I'm Tanim Ahmed</h1>
+<h1 align="center">Tanim Ahammed</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Competitive+Programmer;Full-Stack+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Competitive+Programmer;Always+Learning+New+Things" />
 </p>
 
 <h3 align="center">Computer Science Student | Competitive Programmer | Aspiring AI/ML</h3>
@@ -15,11 +15,11 @@
 ---
 
 
-* 🎓 Computer Science Student at Sejong University, South Korea
-* 🏆 Passionate about Competitive Programming
-* 🌱 Currently learning React, Node.js, AI & Data Science
-* 🚀 Building projects and solving algorithmic problems
-* 📚 Always exploring new technologies and best practices
+*  Computer Science Student at Sejong University, South Korea
+*  Passionate about Competitive Programming
+*  Currently learning React, Node.js, AI & Data Science
+*  Building projects and solving algorithmic problems
+*  Always exploring new technologies and best practices
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aperfectrio\&show_icons=true)
 
@@ -42,12 +42,12 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-* Data Structures & Algorithms
-* Competitive Programming
 * Building Real-world Projects
 * AI & Big Data
+* DSA
+* CP
 
 ---
 
