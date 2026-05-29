@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/aperfectrio/aperfectrio/blob/main/stray-programming.gif" width="700">
+</p>
 <h1 align="center">Hi 👋, I'm Tanim Ahmed</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Competitive+Programmer;Full-Stack+Developer;Always+Learning+New+Things" />
