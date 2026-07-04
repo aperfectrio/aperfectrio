@@ -15,7 +15,7 @@
 ---
 
 
-*  Computer Science Student at Sejong University, South Korea
+*  CS student at Sejong University, South Korea
 *  Passionate about Competitive Programming
 *  Currently learning React, Node.js, AI & Data Science
 *  Building projects and solving algorithmic problems
